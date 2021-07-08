@@ -33,14 +33,12 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="Ahj-4f-omY" firstAttribute="height" secondItem="inl-1u-h0S" secondAttribute="height" id="IDb-uN-a1T"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="inl-1u-h0S" secondAttribute="trailing" constant="20" id="MJr-PA-pPn"/>
+                            <constraint firstItem="inl-1u-h0S" firstAttribute="height" secondItem="Ahj-4f-omY" secondAttribute="height" id="Mnl-GA-Dxl"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Ahj-4f-omY" secondAttribute="trailing" constant="20" id="Nw0-g7-zeH"/>
-                            <constraint firstItem="Ahj-4f-omY" firstAttribute="width" secondItem="inl-1u-h0S" secondAttribute="width" id="RXI-vL-knI"/>
                             <constraint firstItem="inl-1u-h0S" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="UXQ-bs-efX"/>
-                            <constraint firstItem="inl-1u-h0S" firstAttribute="top" secondItem="Ahj-4f-omY" secondAttribute="bottom" constant="26" id="f2i-b9-Ydi"/>
                             <constraint firstItem="Ahj-4f-omY" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="ff0-Xy-cuS"/>
-                            <constraint firstItem="inl-1u-h0S" firstAttribute="top" secondItem="Ahj-4f-omY" secondAttribute="bottom" constant="26" id="jIS-q3-v8C"/>
+                            <constraint firstItem="inl-1u-h0S" firstAttribute="top" secondItem="Ahj-4f-omY" secondAttribute="bottom" constant="26" id="hB6-n7-28Y"/>
                             <constraint firstItem="inl-1u-h0S" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" constant="-10" id="lTx-3f-dc8"/>
                             <constraint firstItem="Ahj-4f-omY" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="10" id="xjr-J8-7zP"/>
                         </constraints>
